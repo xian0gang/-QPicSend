@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/psblack.css</file>
+        <file>qss/11.png</file>
+        <file>qss/22.png</file>
+        <file>qss/psblack/radiobutton_checked_disable.png</file>
+        <file>qss/psblack/radiobutton_unchecked.png</file>
+        <file>fontawesome-webfont.ttf</file>
+        <file>qss/logo.png</file>
+        <file>qss/myico.ico</file>
+    </qresource>
+</RCC>
